@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Dancing+Script&display=swap');
+
+body{
+    background-color: azure;
+}
+#center{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    
+    
+}
+.komaret{
+    width: auto;
+
+}
+.komaret img{
+    width: 330px;
+    height: 420px;
+    flex-shrink: 0;
+    border-radius: 38px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.text{
+    justify-content: center;
+    width: auto;
+    margin-left: 5%;
+
+}
+h1{
+    margin-top: 76px;
+    margin-bottom: 0;
+    color: #000;
+    font-family: Corinthia;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+}
+.svg{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    
+}
+#page{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+#page h3{
+    font-size: 20px;
+    text-align: center;
+}
+#page img{
+    width: 150px;
+    height: 150px;
+}
+.profile{
+    width: 148px;
+    height: 148px;
+    border-radius: 250px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.resume{
+    width: 148px;
+    height: 148px;
+    border-radius: 250px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.portfolio{
+    width: 148px;
+    height: 148px;
+    border-radius: 250px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.blog{
+    width: 148px;
+    height: 148px;
+    border-radius: 250px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.contact{
+    width: 148px;
+    height: 148px;
+    border-radius: 250px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
